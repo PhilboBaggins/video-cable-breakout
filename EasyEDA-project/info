@@ -1,0 +1,151 @@
+{
+  "uuid": "a67feb7a26e99b1fbae183301152adf7",
+  "path": "Offline/Video%20cable%20breakout",
+  "name": "Video cable breakout",
+  "content": "",
+  "created_at": "2023-01-05 22:26:07",
+  "updated_at": "2023-01-06 03:32:04",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "58a74a8def99ba3e9a23cc5f0d92daf6",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "30cfbe1ee72d4a50b5efebdbe9159292": 1,
+        "26d45a52765747e3a687fc7b180fb3cc": 2,
+        "8ecc10591a0a458496aeac8f7d7e9de8": 1,
+        "c8be22c1ac9c4ca3b40e887d2e653ad1": 1,
+        "8f9adbb917b34301ba51590d0cc98060": 2,
+        "29a9ed4bd7e44ab5b1151bac840be6d3": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0472720024",
+          1,
+          "MOLEX_0472720024",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "0472720024",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "WM3971CT-ND",
+            "BOM_Manufacturer": "Molex",
+            "puuid": "5d74348756824f3f935fc4ae8273d417",
+            "uuid": "30cfbe1ee72d4a50b5efebdbe9159292"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x15",
+          2,
+          "HDR-M-2.54_2X15",
+          "J2,J4",
+          {
+            "BOM_Supplier Part": "C56496",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "31bab2c6be724fddb35cd0a53e8d9a41",
+            "uuid": "26d45a52765747e3a687fc7b180fb3cc"
+          }
+        ],
+        [
+          "HD04-19-TH-TR",
+          1,
+          "HD0419THTR",
+          "J3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "8123ea859513434580730b952cd16f3b",
+            "uuid": "8ecc10591a0a458496aeac8f7d7e9de8"
+          }
+        ],
+        [
+          "VGA-002",
+          1,
+          "D-SUB-TH_VGA-002",
+          "J5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE(博穆精密)",
+            "BOM_Manufacturer Part": "VGA-002",
+            "BOM_Supplier Part": "C138387",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "ff32fdb56d2b4d2aad0321a7dd1f936a",
+            "uuid": "c8be22c1ac9c4ca3b40e887d2e653ad1"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x6",
+          1,
+          "HDR-M-2.54_2X6",
+          "J6A",
+          {
+            "BOM_Supplier Part": "C124388",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4dd21fdff65e48e89ebd6165b3a5cb41",
+            "uuid": "29a9ed4bd7e44ab5b1151bac840be6d3"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x4",
+          2,
+          "HDR-M-2.54_2X4",
+          "J6B,J6C",
+          {
+            "BOM_Supplier Part": "C58363",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "c9b71cab140e4e31a84c15ac14b83555",
+            "uuid": "8f9adbb917b34301ba51590d0cc98060"
+          }
+        ]
+      ],
+      "updateTime": 1672935580,
+      "createTime": 1672917967,
+      "histories": [],
+      "created_at": "2023-01-05 22:26:07",
+      "updated_at": "2023-01-06 03:19:40"
+    },
+    {
+      "uuid": "530da890568d68cc37393b893c4bf08e",
+      "puuid": "a67feb7a26e99b1fbae183301152adf7",
+      "title": "PCB_Video cable breakout",
+      "filename": "PCB_Video cable breakout.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ff32fdb56d2b4d2aad0321a7dd1f936a": 1,
+        "4dd21fdff65e48e89ebd6165b3a5cb41": 1,
+        "c9b71cab140e4e31a84c15ac14b83555": 2,
+        "8123ea859513434580730b952cd16f3b": 1,
+        "31bab2c6be724fddb35cd0a53e8d9a41": 2,
+        "5d74348756824f3f935fc4ae8273d417": 1
+      },
+      "BOM": [],
+      "updateTime": 1672936324,
+      "createTime": 1672918797,
+      "histories": [],
+      "created_at": "2023-01-05 22:39:57",
+      "updated_at": "2023-01-06 03:32:04"
+    }
+  ],
+  "sort": [],
+  "title": "Video cable breakout",
+  "foldername": "Video cable breakout",
+  "schfilename": "Video cable breakout.json",
+  "schfilemtime": 1672935580919
+}
